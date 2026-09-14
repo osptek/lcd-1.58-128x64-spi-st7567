@@ -31,7 +31,7 @@
 
 OSPTEK **1.58″ 128×64 LCD** is a **SPI** monochrome dot-matrix module driven by **ST7567** (FSTN). Suited to status bars, menus, meters, and low-power information displays.
 
-Spec ID (repository name): `1.58-lcd-128x64-spi-st7567`
+Spec ID (repository name): `lcd-1.58-128x64-spi-st7567`
 
 Current module version: **LCD12864-1937**. Electrical and mechanical details follow [`docs/LCD12864-1937.pdf`](./docs/LCD12864-1937.pdf).
 
@@ -58,7 +58,7 @@ Demo: [`assets/demo_1.mp4`](./assets/demo_1.mp4).
 ## Repository layout
 
 ```text
-1.58-lcd-128x64-spi-st7567/                                # repo root (nav: ../../README_EN.md)
+lcd-1.58-128x64-spi-st7567/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── LCD12864-1937/                                # full materials for this part number
         ├── README.md

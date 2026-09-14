@@ -29,7 +29,7 @@ This repository holds materials for the **1.58″ 128×64 LCD (SPI · ST7567)** 
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `1.58-lcd-128x64-spi-st7567`
+Repo id: `lcd-1.58-128x64-spi-st7567`
 
 ---
 
