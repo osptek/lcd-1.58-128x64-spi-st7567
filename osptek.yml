@@ -6,6 +6,7 @@ panel: lcd
 resolution: 128x64
 interface: [spi]
 shape: rect
+corner: sharp
 
 versions:
   - id: LCD12864-1937
