@@ -1,0 +1,14 @@
+id: lcd-1.58-128x64-spi-st7567
+category: displays
+
+size: "1.58"
+panel: lcd
+resolution: 128x64
+interface: [spi]
+shape: rect
+
+versions:
+  - id: LCD12864-1937
+    driver: ST7567
+    touch: none
+    note: none
